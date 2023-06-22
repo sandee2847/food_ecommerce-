@@ -12,4 +12,7 @@
   <li>Redux-toolkit</li>
   <li>Tailwind css</li>
 </ul>
-
+<p><b>Images :</b></p>
+<img src="./src/assets/images/Screenshot (67).png"/>
+<img/>
+<img/>
